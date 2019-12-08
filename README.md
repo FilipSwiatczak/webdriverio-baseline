@@ -1,10 +1,10 @@
-###WebdriverIO Baseline project with Cucumber
+### WebdriverIO Baseline project with Cucumber
 
 This project is a ready to go foundation for using WebdriverIO v5 framework with Typescript and Cucumber.
 
 Run `npm run test` for basic Google search test in Chrome
 
-####Project highlights:
+#### Project highlights:
  - **Page Object** pattern [showcase](src/page-objects/google-check.po.ts)
  - **Composition pattern** [showcase](src/web-elements) - wrapping common web elements like buttons, dropdowns and text fields for stable re-use and encapsulation
  - Cucumber WDIO config set up - [wdio.conf.js](config/wdio.conf.js)
