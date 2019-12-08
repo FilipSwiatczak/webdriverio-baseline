@@ -1,0 +1,18 @@
+{
+  "browserstackUser": "",
+  "browserstackKey": "",
+  "chrome": {
+      "browserName": "chrome",
+      "os": "windows",
+      "os_version": "10",
+      "browser_version": "78",
+      "resolution": "1920x1080"
+  },
+  "firefox": {
+    "browserName": "firefox",
+    "os": "windows",
+    "os_version": "10",
+    "browser_version": "70",
+    "resolution": "1920x1080"
+  }
+}
